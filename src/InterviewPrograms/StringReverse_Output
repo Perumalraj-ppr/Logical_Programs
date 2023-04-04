@@ -1,0 +1,17 @@
+Reverse using loop
+##################
+Enter name to reverse : 
+perumal
+Reveresed String : lamurep
+Reverse using Builder
+#####################
+Enter name to reverse : 
+perumal
+Reveresed String : lamurep
+Reverse using Buffer
+#####################
+Enter name to reverse : 
+perumal
+Reveresed String : lamurep
+
+Process finished with exit code 0
